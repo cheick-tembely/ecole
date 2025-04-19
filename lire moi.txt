@@ -1,0 +1,9 @@
+Interface administrateur:
+Login:admin
+Password:admin
+Interface des professeurs:
+Login:root
+Password:root
+Interfaces des comptables:
+Login:fatoumata
+Password:fatoumata
